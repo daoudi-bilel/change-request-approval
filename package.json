@@ -5,7 +5,7 @@
   "license": "UNLICENSED",
   "description": "Take-home exercise: Change Request approval — backend service + Angular UI (fullstack).",
   "engines": {
-    "node": ">=18.20.0 <19"
+    "node": ">=18.20.0"
   },
   "scripts": {
     "start": "ng serve",

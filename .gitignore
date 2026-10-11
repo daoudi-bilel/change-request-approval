@@ -4,3 +4,5 @@ dist/
 .angular/
 .idea/
 .DS_Store
+.vercel
+.env*
