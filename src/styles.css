@@ -46,6 +46,15 @@ button:disabled {
 [role='alert'] {
 	color: #b00020;
 }
+.cr-timeline__list {
+	padding-left: 1.25rem;
+}
+.cr-timeline__entry {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 0.35rem 0.75rem;
+	margin-bottom: 0.4rem;
+}
 .cr-diff__row[data-kind='changed'] {
 	background: #fff6e5;
 }
